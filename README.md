@@ -39,9 +39,8 @@ Here are some projects I have worked on:
 ## Education
 - BSc. Computer Science, Usmanu Danfodiyo University Sokoto Nigeria, 2008
 
-## Certification
-
+<!-- ## Certification -->
 
 ## Contact Me
 - Email: emmanwashili@gmail.com
-- LinkedIn: 
+<!-- - LinkedIn: -->
