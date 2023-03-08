@@ -24,7 +24,7 @@ I'm a data analyst with experience in Excel, SQL, Python and Power BI. I am cons
 
 ## Projects
 Here are some projects I have worked on:
-- [Plato Pizza Analysis](plato-pizza): A Power BI project on sales analysis of an imaginary pizza place called **Plato's Pizza**.
+- [Plato Pizza Analysis](https://github.com/nwashilia/plato-pizza#readme): A Power BI project on sales analysis of an imaginary pizza place called **Plato's Pizza**.
 
 ## Skills
 - Excel
