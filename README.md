@@ -25,6 +25,7 @@ I'm a data analyst with experience in Excel, SQL, Python and Power BI. I am cons
 ## Projects
 Here are some projects I have worked on:
 - [Plato Pizza Analysis](https://github.com/nwashilia/plato-pizza#readme): A Power BI project on sales analysis of an imaginary pizza place called **Plato's Pizza**.
+- [FIFA '21 Analysis](https://github.com/nwashilia/fifa21_data_analysis/blob/main/README.md): A Microsoft Excel analysis on the sports dataset from FIFA '21.
 
 ## Skills
 - Excel
@@ -41,4 +42,5 @@ Here are some projects I have worked on:
 
 ## Contact Me
 - Email: emmanwashili@gmail.com
-<!-- - LinkedIn: -->
+- Twitter: [@emmanwashili](https://twitter.com/emmanwashili)
+- LinkedIn: [Emmanuel Nwashili](https://www.linkedin.com/in/emmanuel-nwashili-7051097b)
