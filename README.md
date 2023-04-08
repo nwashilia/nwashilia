@@ -26,6 +26,7 @@ I'm a data analyst with experience in Excel, SQL, Python and Power BI. I am cons
 Here are some projects I have worked on:
 - [Plato Pizza Analysis](https://github.com/nwashilia/plato-pizza#readme): A Power BI project on sales analysis of an imaginary pizza place called **Plato's Pizza**.
 - [FIFA '21 Analysis](https://github.com/nwashilia/fifa21_data_analysis/blob/main/README.md): A Microsoft Excel analysis on the sports dataset from FIFA '21.
+- [Maven Marketing Analysis](https://github.com/nwashilia/maven_marketing/blob/main/README.md): Answering question that would help the Maven Marketign team deliver precise marketing campaigns.
 
 ## Skills
 - Excel
@@ -36,7 +37,7 @@ Here are some projects I have worked on:
 - Statistical Analysis
 
 ## Education
-- BSc. Computer Science, Usmanu Danfodiyo University Sokoto Nigeria, 2008
+- BSc. Computer Science, Usmanu Danfodiyo University Sokoto, Nigeria
 
 <!-- ## Certification -->
 
