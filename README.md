@@ -27,6 +27,7 @@ Here are some projects I have worked on:
 - [Plato Pizza Analysis](https://github.com/nwashilia/plato-pizza#readme): A Power BI project on sales analysis of an imaginary pizza place called **Plato's Pizza**.
 - [FIFA '21 Analysis](https://github.com/nwashilia/fifa21_data_analysis/blob/main/README.md): A Microsoft Excel analysis on the sports dataset from FIFA '21.
 - [Maven Marketing Analysis](https://github.com/nwashilia/maven_marketing/blob/main/README.md): Answering question that would help the Maven Marketign team deliver precise marketing campaigns.
+- [Healthcare Readmission](https://github.com/nwashilia/readmission_in_healthcare/blob/main/README.md): Looking into the menace of readmissions in health, its causes and proffering solutions to cut down readmission rates.
 
 ## Skills
 - Excel
