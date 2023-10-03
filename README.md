@@ -28,6 +28,7 @@ Here are some projects I have worked on:
 - [FIFA '21 Analysis](https://github.com/nwashilia/fifa21_data_analysis/blob/main/README.md): A Microsoft Excel analysis on the sports dataset from FIFA '21.
 - [Maven Marketing Analysis](https://github.com/nwashilia/maven_marketing/blob/main/README.md): Answering question that would help the Maven Marketign team deliver precise marketing campaigns.
 - [Healthcare Readmission](https://github.com/nwashilia/readmission_in_healthcare/blob/main/README.md): Looking into the menace of readmissions in health, its causes and proffering solutions to cut down readmission rates.
+- [MeriSkill Sales Analysis](https://github.com/nwashilia/meriskill_sales/blob/main/README.md): An analysis targeted at improving sales using data deiven insights.
 
 ## Skills
 - Excel
